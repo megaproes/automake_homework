@@ -1,0 +1,27 @@
+# temp
+autom4te.cache/
+aclocal.m4
+compile
+config.*
+configure
+depcomp
+install-sh
+missing
+Makefile
+Makefile.in
+
+
+# dependency
+.deps/
+
+# built
+myprog
+
+# obj / lib /bins
+*.o
+*.lo
+*.la
+*.a
+*.so*
+*.exe
+*.out
